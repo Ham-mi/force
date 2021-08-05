@@ -1,0 +1,11 @@
+name: force
+version: 1.0.0
+author : hammi
+main: Main.fMain
+commands:
+ 주문서관리:
+  description: 강화 명령어.
+ upgrade:
+  description: 강화창 명령어.
+ 강화관리:
+  description: 강화관리 명령어.
